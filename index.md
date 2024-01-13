@@ -1,15 +1,19 @@
 ---
-title: About Alembic
+title: About Me
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## Laura Pang
+  Future Stellar Astrophysicist, Physics Teacher, and
+  Mom
+  <br />
+  Current Astrophysics and Physics Undergraduate
+ 
+feature_image: /assets/img/webb-outflow-young-star.jpg
+excerpt: "I am an Astrophysics/Physics undergrad at Arizona State University, graduating in Spring 2024.  I aim to get a PhD in Astronomy or Astrophysics, but I'll take a Master's for now if there's a waiting list. When I'm not looking at stars or dying with physics homework, I enjoy singing, dancing, reading, cooking, and playing games with friends/family or just by myself if the game's got a good story or has space features I can critique."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I am an Astrophysics/Physics undergrad at Arizona State University, graduating in Spring 2024.  I aim to get a PhD in Astronomy or Astrophysics, but I'll take a Master's for now if there's a waiting list. When I'm not looking at stars or dying with physics homework, I enjoy singing, dancing, reading, cooking, and playing games with friends/family or just by myself if the game's got a good story or has space features I can critique.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Orcid" icon="orcid" link="" color="#A6CE39" %} {% include button.html text="GitHub" icon="github" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#4078c0" %}
 
 ## Features
 
