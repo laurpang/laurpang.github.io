@@ -33,6 +33,15 @@ a {
   }
 }
 
+.feature .typeset {
+  h1, h2, h3, h4, h5, h6 {
+    color: $featureHeadingColour;
+  }
+  p {
+    color: $featureBodyColour;
+  }
+}
+
 // Styles for typeset text.
 .typeset {
 

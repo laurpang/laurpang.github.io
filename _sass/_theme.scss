@@ -16,6 +16,10 @@ body {
 
 
 // Header, feature and footer
+.header {
+  background-color: #00112b;
+  margin-bottom: 1.6rem;
+}
 .header,
 .footer {
   .nav {
@@ -72,6 +76,10 @@ body {
 .nav {
   a {
     padding: .2rem;
+    color: $headerLinkColour;
+    &:hover {
+      color: $hoverColour;
+    }
   }
   &--social a {
     display: inline-block;

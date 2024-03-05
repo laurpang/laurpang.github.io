@@ -1,17 +1,33 @@
+// Theme colors
+$white: #ffffff !default;
+$blue000: #d7eef4 !default;
+$blue100: #bfd5dd !default;
+$blue200: #a7bcc7 !default;
+$blue300: #8fa4b1 !default;
+$blue400: #778b9a !default;
+$blue500: #5f7384 !default;
+$blue600: #475a6e !default;
+$blue700: #2f4257 !default; // site-feature overlay color
+$blue800: #172941 !default;
+$blue900: #00112b !default;
+
+
 // Background colours
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
-$accentColour: #05bf85 !default;
+$accentColour: $blue000 !default;
 
 // Text colours
-$headingColour: #242e2b !default;
-$bodyColour: #384743 !default;
-$linkColour: #05bf85 !default;
-$hoverColour: #008000 !default;
-$focusColour: #fa407a !default;
-$captionColour: #a8adac !default;
-$white: #ffffff !default;
+$headingColour: $blue800 !default;
+$featureHeadingColour: $white !default;
+$bodyColour: $blue700 !default;
+$featureBodyColour: $white !default;
+$linkColour: $blue700 !default;
+$headerLinkColour: $blue000 !default;
+$hoverColour: $blue300 !default;
+$focusColour: $blue000 !default;
+$captionColour: $blue500 !default;
 
 // Typography
 $bodytype: (
